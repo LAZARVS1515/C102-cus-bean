@@ -1,1 +1,2 @@
-# C102-cus-bean
+# Automation
+solution C102
